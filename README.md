@@ -32,8 +32,8 @@ in a network of web pages based on the structure of the links between them.
 6. ***Visualization:***
     <p>    Visualize using bar chart to represent authority and hub scores.
 
-## Name: RAMYA R
-## Reg No: 212223230169
+## Name: Dhanussh Elango
+## Reg No: 212224040069
 
 ### Program:
 
